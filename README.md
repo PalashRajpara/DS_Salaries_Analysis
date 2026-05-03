@@ -1,4 +1,4 @@
-# Data Science Salaries Analysis
+# Data Science Salary Analysis
 
 Exploratory analysis of the DS Salaries dataset using a Jupyter notebook, plus a Streamlit dashboard.
 
