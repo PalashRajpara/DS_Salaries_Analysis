@@ -1,4 +1,4 @@
-# DS Salaries Analysis
+# Data Science Salaries Analysis
 
 Exploratory analysis of the DS Salaries dataset using a Jupyter notebook.
 
